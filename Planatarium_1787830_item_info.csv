@@ -1,0 +1,213 @@
+﻿Item ID,Item Name,Item Number
+-1,reg_time,2025-05-15 09:05:43
+item-10,Dummy Core,672
+item-31,Basic Training Data,6233
+item-32,Intermediate Training Data,256
+item-33,Advanced Training Data,6111
+-1,kalina_level,13
+-1,kalina_favor,4980
+item-1,T-Doll Contract,4
+item-2,Equipment Contract,316
+item-3,Quick Production Contract,218
+item-4,Quick Repair Contract,634
+item-7,Oath Certificate,0
+item-8,Quick Training Contract,88
+item-9,Enhancement Capsule,1164
+item-14,Original Sample,200
+item-15,Pure Sample,32
+item-16,Quick Analysis Contract,92
+item-41,Token,67
+item-44,Calibration Ticket,3265
+item-45,Memory Fragment,637
+item-46,Special Combat Report,72
+item-50,Universal Parts,628
+item-51,New Type Fire-Control Component,15
+item-53,Gachapon Ticket,90
+item-57,Energy,6800
+item-60,Component Processing Package,0
+item-103,Challenger Medal,1
+item-106,Chess Champion Medal,7
+item-143,Light Chaser Medal,1
+item-506,Battery,167
+item-507,Surplus EXP,17337
+item-508,Friendship Points,2250
+item-509,Fairy Command,80
+item-512,Supernova Kernel,40
+item-513,Dark Star Kernel,4775
+item-514,Petri Dish,18
+item-515,Basic Training Keycode,237
+item-516,Advanced Training Keycode,40
+item-517,Specified Equipment Contract,28
+item-524,Goliath Projectile,0
+item-525,Quick Auto-Battle Contract,163
+item-601,Infinite Surprise Dye,24
+item-602,Colorful Specified Dye,2
+item-603,Potential Energy,0
+item-604,Electronic Impulse,0
+item-605,Aid Commission,1
+item-606,Transfer Catalyst,16
+item-1001,AAT-52 Icon,1
+item-1002,G43 Icon,1
+item-1017,UMP9 Icon,1
+item-1032,FMG-9 Icon,1
+item-1033,KS-23 Icon,1
+item-1039,PPS-43 Icon,1
+item-1059,Gr G3 Icon,1
+item-1060,LWMMG Icon,1
+item-1062,M1895 Icon,1
+item-1065,M1 Garand Icon,1
+item-1069,Tokarev Icon,1
+item-1228,Icon: Official 4-Koma vol.1,1
+item-1264,M4A1 Neural Upgrade Icon,1
+item-1494,416 Neural Upgrade Icon,1
+item-1814,ID: Advent,1
+item-2303,Icon: Tipsy Tenderness,1
+item-2304,ID: Vigil of the Castle of Time,1
+item-4001,City's Gift,2332
+item-4002,Snowfield's Gift,7
+item-4003,Forest's Gift,2964
+item-4004,Wasteland's Gift,136
+item-6001,Ordinary Meat Bun,0
+item-6002,Bundle of Meat Buns,0
+item-6003,Trove of Meat Buns,10
+item-6004,Commonfolk Standard,0
+item-6005,Comfort Bucket for One,1
+item-6006,Full Meal for Two,3
+item-6007,Strawberry Cheesecake Slice,0
+item-6008,One Week's Cake Selection,0
+item-6009,Sweet Explosives,0
+item-6010,"Baby  B-A-B-Y.",1
+item-6011,Streetside Oden,0
+item-6012,Wild Honeycomb,4
+item-6013,Icy Theater,5
+item-8001,Intel Points,1775
+item-8003,Intel Points,15
+item-9035,Ring-Shaped Parts,1
+item-9301,A Tidy Medical Kit,1
+item-9302,A Garbled Audio Recording,1
+item-9303,An Old Compass,1
+item-9304,A Worn  Ancient Gold Coin,1
+item-9305,A Dried Rose,1
+item-9306,A Box of 5.56×45mm M955 Armor-Piercing Rounds,1
+item-9307,A Well-Maintained Carabiner,1
+item-9308,A Hand-Drawn Map of the Dark Zone,1
+item-9309,A Damaged Dog Tag,1
+item-10603,Extra Potential Energy,0
+item-10604,Extra Impulse,0
+item-10605,Level of Activity,360
+item-10606,Frontline Protocol Advanced Card,845
+item-10702,Exploration Permit,186
+item-10720,Gray Zone Exploration Score,6231
+item-10721,Gray Zone Exploration Score,7620
+item-100187,Future Box,0
+item-100245,Nova Medal - Butterfly Nebula,17
+item-100246,Platinum Medal - Butterfly Nebula,52
+item-100247,Koen,380
+item-110035,Event Points,2600
+item-133007,Desert Yellow - Main Battle Tank Armor Design,1
+item-133008,Desert Yellow - Universal Machine Gun MK-I,1
+item-133009,Desert Yellow - Anti-Armor Sniper Rifle,1
+item-133011,Desert Yellow - Machine Gun Team,1
+item-133012,Desert Yellow - Automotive Night Vision,1
+item-133013,Desert Yellow - Flamethrower,1
+item-133014,Desert Yellow - Shell Launcher,1
+item-133015,Desert Yellow - Grenade Launcher,1
+item-133016,Desert Yellow - Laser Weapon,1
+item-133017,Desert Yellow - Cannon,1
+item-133018,Desert Yellow - Anti-Aircraft Cannon,1
+item-133019,Desert Yellow - Impulse Cannon,1
+item-133020,Desert Yellow - Armored Cannon,1
+item-133021,Desert Yellow - Jammer Gun,1
+item-133022,Desert Yellow - Jammer,1
+item-133023,Desert Yellow - Signal Transceiver,1
+item-133024,Desert Yellow - Smoke Grenade Launcher,1
+item-133025,Desert Yellow - Missile Launcher MK1,1
+item-133031,Urban Camouflage - Main Battle Tank Armor Design,1
+item-133037,Urban Camouflage - Flamethrower,1
+item-133038,Urban Camouflage - Shell Launcher,1
+item-133039,Urban Camouflage - Grenade Launcher,1
+item-133040,Urban Camouflage - Laser Weapon,1
+item-133041,Urban Camouflage - Cannon,1
+item-133042,Urban Camouflage - Anti-Aircraft Cannon,1
+item-133043,Urban Camouflage - Impulse Cannon,1
+item-133044,Urban Camouflage - Armored Cannon,1
+item-133045,Urban Camouflage - Jammer Gun,1
+item-133046,Urban Camouflage - Jammer,1
+item-133056,Urban Camouflage - Tactical Mech Armor Design,1
+item-133057,Desert Yellow - Light Machine Gun,1
+item-133058,Desert Yellow - Lightweight Rapid-Fire Railgun,1
+item-133059,Desert Yellow - Shield Generator,1
+item-133060,Desert Yellow - Laser Suppression System,1
+item-133061,Desert Yellow - Heavy Machine Gun,1
+item-133062,Desert Yellow - Phased-Array Radar,1
+item-133066,Urban Camouflage - Shield Generator,1
+item-133067,Urban Camouflage - Laser Suppression System,1
+item-133068,Urban Camouflage - Heavy Machine Gun,1
+item-133145,Urban Camouflage - Slat Armor,1
+item-140053,item-10140053,1
+item-200003,Icon Frame - Extreme Apex,1
+item-200009,Icon Frame - Dance of the Nib,1
+item-900055,5th Anniversary Special Supply Box,70
+item-1500193,Basic Equipment Selection Indicator,0
+item-1700037,Basic Equipment Indicator,0
+item-1700038,Basic Exclusive Equipment Selection Indicator,0
+item-1700039,Advanced Exclusive Equipment Selection Indicator,0
+item-1700040,Basic Equipment Selection Indicator,0
+item-1700041,Basic Exclusive Equipment Selection Indicator,0
+item-1700042,Advanced Exclusive Equipment Selection Indicator,0
+item-1800001,Military-Grade Weapon Component Box,0
+item-1800002,Military-Grade Function Component Box,0
+item-1800003,Professional-Grade Component Box,0
+item-1800004,Industrial-Grade Component Box,0
+item-1800005,Standard-Grade Component Box,0
+item-1800008,Military-Grade Weapon Component Box 2.0,0
+item-1800009,Military-Grade Function Component Box 2.0,0
+gift-100002,Ice Cream Cone,1
+gift-100003,Strawberry Custard Cheesecake,56
+gift-200007,Crab Cannon,1
+gift-200009,Drifting Will-o'-Wisp,1
+gift-200012,Searing Light Orb,2
+gift-200014,Bone Heart,2
+gift-100012,Jingling Bells,1
+gift-100017,Crunchy White Chocolate Shell,1
+gift-100001,Lollipop,2
+furniture-10101,Simple Workbench,1
+furniture-10201,Plain Cat Bed,1
+furniture-10301,Simple Doghouse,1
+furniture-10400,Dust-Covered Bird Stand,0
+furniture-10501,Simple Multifunction Temperature-Controlled Enclosure,1
+furniture-20106,Modern Era Desk,6
+furniture-20204,Simple Drone Console,4
+furniture-20305,Archaic Operating Station,5
+furniture-20402,Messy Data Table,2
+furniture-20506,Small Server,6
+furniture-20604,Ancient Fax Machine,4
+furniture-20700,Bookshelf of Memories,0
+furniture-30103,Mountain Fort,3
+furniture-30202,Rural Railway Model,2
+furniture-30302,Temporary Warehouse Model,2
+furniture-30402,Cloudy Weather System,2
+furniture-40009,Luffberry chess,0
+furniture-40023,Cafe Bar Coffee Machine,0
+furniture-40024,Gramophone,0
+furniture-40026,Notebook,0
+furniture-40027,Projector,0
+furniture-40028,Comic Stand,0
+furniture-50108,Longwave Listening Post,8
+furniture-50303,Early Disk Drive Storage,3
+furniture-50500,Futuristic Search Terminal,0
+furniture-60303,Integrated Indoor Training Range,3
+furniture-80007,Real Time Relay Terminal,0
+furniture-80011,Black Market Shop,0
+furniture-80108,Automated Gate Console,8
+furniture-80303,Intermediate Loot Rack,3
+furniture-90107,Impulse Reactor,7
+furniture-90204,Tactical Chip Research Station,4
+furniture-90400,Symmetric Infusion Drive,0
+furniture-100100,Workstation,0
+furniture-100200,Energy Generator,0
+furniture-100300,Research Station,0
+furniture-100400,Component Storage,0
+furniture-100500,Armor Range,0
+furniture-100600,Mobile Armor Platform,0
+furniture-100700,Mobile Armor,0
